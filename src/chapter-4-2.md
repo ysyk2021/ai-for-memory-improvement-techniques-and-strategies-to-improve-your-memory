@@ -1,5 +1,3 @@
-Automated Note-Taking and Recall using AI
-==============================================================================================
 
 AI technology can provide valuable tools for enhancing learning and retention. In this chapter, we will explore how AI can help individuals take better notes and recall information more effectively.
 

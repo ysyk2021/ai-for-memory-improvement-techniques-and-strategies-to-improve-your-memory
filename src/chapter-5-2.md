@@ -1,5 +1,3 @@
-AI-Powered Reminders and Alerts for Memory Tasks
-===============================================================================================================
 
 AI technology can provide valuable tools for improving productivity and time management. In this chapter, we will explore how AI-powered reminders and alerts can help individuals stay on top of memory tasks and improve productivity.
 

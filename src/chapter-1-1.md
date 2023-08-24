@@ -1,5 +1,3 @@
-Understanding the Role of AI in Memory Enhancement
-========================================================================================================
 
 AI technology is increasingly being used to enhance memory and cognitive function. In this chapter, we will explore the role of AI in memory enhancement.
 

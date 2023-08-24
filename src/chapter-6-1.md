@@ -1,5 +1,3 @@
-AI-Driven Nutrition Planning for Brain Health
-================================================================================================
 
 Proper nutrition is critical for maintaining healthy brain function. In this chapter, we will explore how AI-driven nutrition planning can help individuals achieve optimal brain health.
 
@@ -28,5 +26,4 @@ Conclusion
 ----------
 
 In conclusion, AI-driven nutrition planning can help individuals achieve optimal brain health by providing personalized meal plans and monitoring nutrient intake. By leveraging the power of AI to make personalized recommendations for nutrition, individuals can develop healthy eating habits that support brain function and memory.
-
 

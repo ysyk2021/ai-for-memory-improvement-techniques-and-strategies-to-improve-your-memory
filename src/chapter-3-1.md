@@ -1,5 +1,3 @@
-Using AI for Personalized Memory Exercises and Training
-===================================================================================================================
 
 AI technology can provide valuable tools for personalized memory training and exercises. In this chapter, we will explore how AI can help individuals optimize their memory performance through personalized memory exercises and training.
 

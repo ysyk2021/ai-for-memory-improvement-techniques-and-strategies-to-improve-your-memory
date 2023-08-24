@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Memory Improvement
-==================================================================
 
 AI technology can provide valuable tools for memory improvement. In this chapter, we will explore the available tools and technologies for AI-driven memory improvement and how to select the right tool for your memory needs.
 

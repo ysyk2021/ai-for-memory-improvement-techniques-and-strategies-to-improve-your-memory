@@ -1,5 +1,3 @@
-Chapter 3: Implementing AI in Memory Training and Practice
-==========================================================
 
 AI technology can provide valuable tools for memory training and practice. In this chapter, we will explore how to implement AI in memory training and practice.
 
