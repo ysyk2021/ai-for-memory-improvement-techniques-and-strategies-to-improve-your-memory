@@ -1,5 +1,4 @@
-Chapter: Automated Note-Taking and Recall using AI
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the application of artificial intelligence (AI) in automated note-taking and recall to enhance memory improvement. Leveraging AI algorithms and techniques, individuals can automate the process of capturing and retrieving information, thereby optimizing memory retention and recall.
 

@@ -1,5 +1,4 @@
-Chapter: AI-Powered Reminders and Alerts for Memory Tasks
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the benefits and strategies of utilizing AI-powered reminders and alerts to enhance memory tasks. Leveraging artificial intelligence (AI) technologies for reminders can significantly improve memory retention, help with task management, and facilitate efficient information recall.
 

@@ -1,5 +1,4 @@
-Chapter: Importance of Ethical and Unbiased Memory Improvement Practices
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significance of ethical and unbiased memory improvement practices when utilizing artificial intelligence (AI) technologies. It is crucial to prioritize ethical considerations and ensure fairness in memory enhancement techniques to promote responsible and unbiased cognitive improvement.
 

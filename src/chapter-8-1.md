@@ -1,5 +1,4 @@
-Chapter: Emerging Trends in AI for Memory Enhancement
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting emerging trends in artificial intelligence (AI) for memory enhancement. As AI technologies continue to advance, new innovations and techniques are being developed that have the potential to revolutionize the way we improve and enhance our memory capabilities.
 

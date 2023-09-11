@@ -1,5 +1,4 @@
-Chapter: Using AI for Personalized Memory Exercises and Training
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the application of artificial intelligence (AI) for personalized memory exercises and training. By leveraging AI algorithms and technologies, individuals can engage in tailored memory enhancement activities that address their specific needs, preferences, and goals.
 

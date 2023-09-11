@@ -1,5 +1,4 @@
-Chapter: AI-Driven Nutrition Planning for Brain Health
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the utilization of artificial intelligence (AI) in nutrition planning to enhance brain health and improve memory. AI algorithms can analyze individual dietary patterns, provide personalized recommendations, and optimize nutritional choices to support cognitive function and memory retention.
 

@@ -1,5 +1,4 @@
-Chapter: Automated Health Tracking and Analysis using AI
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the application of AI in automated health tracking and analysis to improve memory. Leveraging AI algorithms and techniques can help individuals monitor their health metrics, identify patterns, and make informed decisions to enhance memory performance.
 

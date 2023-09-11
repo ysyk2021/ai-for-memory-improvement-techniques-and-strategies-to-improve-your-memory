@@ -1,5 +1,4 @@
-Chapter: AI-Powered Language Learning and Translation
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the application of artificial intelligence (AI) in language learning and translation to improve memory. With the advancements in AI technologies, individuals can leverage intelligent systems to enhance their language skills, facilitate communication, and boost memory retention.
 

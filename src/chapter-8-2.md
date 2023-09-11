@@ -1,5 +1,4 @@
-Chapter: Unlocking New Opportunities with AI
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting possibilities and new opportunities that arise from utilizing artificial intelligence (AI) for memory improvement. AI technologies can revolutionize the way we approach memory enhancement, opening doors to innovative techniques and strategies that were previously unimaginable.
 
